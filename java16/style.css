@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1220px;
+    max-height: 1220px;
+    margin: auto;
+}
+.top{
+    display: flex; justify-content: center; align-items: center;
+    background-color: #2A2A2A;
+}
+body{
+    background-color:#444444;
+    margin: 50px;
+}
+
+.input1{
+border-radius: 10px;
+width: 200px; height: 40px; margin-left: 30px;
+}
+
+.all{
+    background-color:#2A2A2A;
+}
+
+.input2{
+border-radius: 10px;
+width: 100px; height: 40px; margin-left: 30px;
+}
+
+.input3{
+border-radius: 10px;
+width: 100px; height: 40px;margin-left: 30px;
+}
+
+.button1{    
+ width: 70px; height: 40px; margin-left: 30px; background-color: red;
+border-radius: 10px; color: white; font-size: 15px;
+}
+.mid{
+    display: flex; justify-content: center; align-items: center; background-color: #2A2A2A;
+
+}
+.film{
+    width: 510px; margin:  10px auto;
+    background-color: black;
+    text-align: center;
+    background-color: #605e5e;
+    height: 500px;
+   
+}
+h3{
+    color: white;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.card-footer{
+    color: white;
+}
+.container-films{
+    display: flex; justify-content: center; align-items: center; flex-wrap: wrap; 
+    background-color:#2A2A2A;
+   
+}
+.img1{
+width: 400px;
+height: 300px;
+}
+.h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: 20px;
+}
